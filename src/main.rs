@@ -1,3 +1,5 @@
+mod trpl;
+
 fn main() {
-    println!("Hello, world!");
+    trpl::ch2::ch2();
 }
